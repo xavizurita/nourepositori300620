@@ -1,3 +1,3 @@
 hola
-esta linia esta modificada en la rama branch1
+
 esta liniea esta modificada en la rama master
