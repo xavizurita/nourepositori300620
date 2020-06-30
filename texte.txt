@@ -1,4 +1,8 @@
 hola
+<<<<<<< HEAD
 
 esta liniea esta modificada en la rama master
 segon cop fet l'anterior espero que ara be
+=======
+esta linia esta modificada en la rama branch1
+>>>>>>> branch1
